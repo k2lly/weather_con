@@ -24,9 +24,9 @@
 ### 필자가 한 요소
 
 *데이터 설명
-*ff = 화재 발생 데이터
-*fw = 날씨 데이터
-*merged_df = ff와 fw를 merge한 데이터
+ff = 화재 발생 데이터
+fw = 날씨 데이터
+merged_df = ff와 fw를 merge한 데이터
 
 *ff 날짜 컬럼을 기반으로 datetime 형식으로 date 컬럼 생성
 
